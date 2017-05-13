@@ -1,0 +1,38 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+#titlediv{
+	background-image:url(../image/left_nav_title.gif);
+	width:183px;
+	heiht:35px;
+	text-align:center;
+	padding-top:12px;
+	color:white;
+}
+.menu{
+	list-style-type:none;
+	background-image:url(../image/left_nav_txt.gif);
+	list-style-image:url(../image/left_cur.gif);
+	width:183px;
+}
+ul li{
+	width:183px;
+	height:30px;
+	margin-left:40px;
+	padding-top:5px;
+	background-position:-3em 90%;
+	background-image:url(../image/left_nav_item.gif);
+	background-repeat:no-repeat;
+}
+a:link{
+	text-decoration:none;
+}
+.checked{
+	color:red;
+}
+#footerdiv{
+	background-image:url(../image/left_nav_bottom.gif);
+	width:183px;
+	height:35px;	
+}

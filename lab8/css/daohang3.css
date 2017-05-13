@@ -1,0 +1,31 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+li{
+	list-style-type:none;
+}
+.menu{
+	margin:auto;
+	background-image:url(../image/bg.gif);
+	background-repeat:no-repeat;
+	background-position:top;
+	width:1300px;
+	height:75px;
+	text-align:center;
+	line-height:75px;
+	color:#b9f605;
+}
+
+.menu li{
+	float:left;
+	padding:0px 25px;
+}
+
+a:link{
+	color:white;
+	text-decoration:none;
+}
+.menu .specil{
+	color:yellow;
+}
