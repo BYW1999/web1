@@ -28,8 +28,8 @@
 #### 4.编写HTML代码  
 （1）首页部分：  
 整体结构：核心源代码：  
-![hexindama](images/index_content1.pmg)  
-![hexindama](images/index_content2.pmg)  
+![hexindama](images/index_content1.png)  
+![hexindama](images/index_content2.png)  
 (2)二级页面：  
 
 

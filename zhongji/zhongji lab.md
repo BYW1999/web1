@@ -11,25 +11,44 @@
 （1）首页：  
 屏幕截图：  
 ! [index.html] (/path/to/images/index.png)  
-*图一首页屏幕截图*  
-主要实现功能：  
-首页导航栏功能：有首页、学涯作舟、痛乐与共、脱胎换骨、文教结合、学术课题、诗歌文章、予己留言等八个栏目  
+图一首页屏幕截图  
++ 主要实现功能：介绍该网站的功能，以及全面的展示该网站的所有页面  
++ 首页导航栏功能：有首页、学涯作舟、痛乐与共、脱胎换骨、文教结合、学术课题、诗歌文章、予己留言等八个栏目  
 （2）二级页面：  
 屏幕截图：  
-! [Alt text] (images/list.png)  
-*图二列表页屏幕截图*  
+![Alt text](images/list.png)  
+图二列表页屏幕截图  
++ 主要实现功能：介绍该栏目所有的文章  
 （3）三级页面：  
 屏幕截图：  
-! [content.png] (images/content.png)  
-*图三内容页屏幕截图*  
+![content.png](images/content.png)  
+图三内容页屏幕截图  
++ 主要实现的功能：详细的介绍该内容页的该篇文章  
 #### 2.搜集网站素材  
 #### 3.建立网站代码目录结构  
 ![mulv.png](images/mulv.png)  
 #### 4.编写HTML代码  
 （1）首页部分：  
 整体结构：核心源代码：  
-![hexindama](images/index_content1.pmg)  
-![hexindama](images/index_content2.pmg)  
-(2)二级页面：  
+![hexindama](images/index_content1.png)  
+![hexindama](images/index_content2.png)  
+（2）二级页面：  
+![hexindama](images/list_content.png)  
+（3）三级页面：  
+![hexindama](images/content_content.png)  
+#### 5.编写css布局及样式  
+（1）css布局：  
+核心技术：  
+Float实现布局：对相应的块元素设置浮动，使得该元素固定在理想的位置中  
+Position辅助布局：对难以掌控的块元素进行定位辅助，帮助其固定  
+核心源代码：float:left;background-position:center top;  
+（2）添加css样式：  
+通用类属性：外边距、内边距、字体颜色、字体大小、超链接经过时的状态、无序列表前的符号形状  
+背景相关属性：背景路径、背景定位、背景图像重复、背景颜色  
+#### 6.调试浏览器兼容性  
+ 
+
+
+
 
 
