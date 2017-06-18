@@ -1,0 +1,97 @@
+#content{
+	width:1000px;
+	clear:both;
+}
+.mianbao{
+	height:40px;
+	line-height:40px;
+	padding-left:43px;
+}
+.content_left{
+	width:700px;
+	float:left;
+	padding-top:20px;
+	background-image:url(../images/beijing.png);
+	background-repeat:no-repeat;
+	
+}
+.content_left_title{
+	font-weight:bolder;
+	font-size:23px;
+	text-align:center;
+	color:#f08080;
+	padding-bottom:25px;
+}
+.content_left p{
+	line-height:28px;
+	text-indent:2em;
+	font-size:16px;
+	color:#bc8f8f;
+}
+.content_left_center{
+	padding-top:80px;
+}
+.content_left_center p{
+	font-size:18px;
+	font-weight:bolder;
+	color:#cd843f;
+}
+.content_left_list{
+	padding-top:15px;
+	text-align:center;
+}
+.content_left_list textarea{
+	background-color:#fffacd;
+}
+
+.content_left_bottom{
+	padding-top:30px;
+}
+.content_left_bottom p{
+	font-size:12px;
+	font-weight:bolder;
+	color:#cd843f;
+	padding-left:15px;
+}
+.content_left_bottom_list{
+	text-align:center;
+}
+.content_left_bottom_list textarea{
+	background-color:#fffacd;
+}
+.content_left_bottom .button{
+	float:right;
+	padding-top:8px;
+	padding-right:20px;
+	margin-top:5px;
+	padding-bottom:50px;
+}
+.content_left_bottom .button .but{
+	margin-top:10px;
+	padding:0px 30px;
+}
+.content_right{
+	width:280px;
+	float:right;
+	padding-left:20px;
+}
+.content_right_pic{
+	font-size:18px;
+	font-weight:bolder;
+	color:#cd843f;
+	padding-left:25px;
+}
+.content_right ul{
+	padding-right:20px;
+	padding-top:20px;
+	float:right;
+}
+.content_right ul li{
+	padding-top:5px;
+}
+.content_right ul li a{
+	opacity:0.5;
+}
+.content_right ul li a:hover{
+	opacity:1;
+}

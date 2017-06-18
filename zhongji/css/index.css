@@ -1,0 +1,142 @@
+#content{
+	width:1000px;
+	clear:both;
+}
+#content_top{
+	overflow:hidden;
+	padding-top:15px;
+}
+.content_top_left{
+	width:330px;
+	float:left;
+	background-image:url(../images/biankuang1.png);
+	background-repeat:no-repeat;
+}
+.title{
+	list-style-type:none;
+	font-weight:bolder;
+	font-size:25px;
+	color:#cd843f;
+	margin:10px 0px;
+}
+.content_top_left ul li{
+	line-height:22px;
+	list-style-type:disc;
+	padding-left:20px;
+}
+.list_time{
+	float:right;
+}
+.content_top_center{
+	width:330px;
+	float:left;
+	padding-left:20px;
+	background-image:url(../images/biankuang1.png);
+	background-repeat:no-repeat;
+}
+.content_top_center ul li{
+	line-height:22px;
+	list-style-type:disc;
+	padding-left:20px;
+}
+.content_top_right{
+	width:260px;
+	float:right;
+	padding:20px 5px;
+	background-image:url(../images/biankuang6.png);
+	background-repeat:no-repeat;
+}
+.content_top_right p{
+	color:#cd843f;
+	padding:5px 40px 0px 60px;
+}
+.content_top_right_denglu{
+	padding:10px;
+}
+#denglu{
+	padding:6px 60px;
+}
+.content_top_right .denglu{
+	padding:0px 30px;
+}
+#content_center{
+	padding-top:15px;
+}
+.content_center_left{
+	width:330px;
+	float:left;
+	background-image:url(../images/biankuang1.png);
+	background-repeat:no-repeat;
+}
+.content_center_left ul li{
+	line-height:22px;
+	list-style-type:disc;
+	padding-left:20px;
+}
+.content_center_center{
+	width:260px;
+	float:left;
+	padding-top:40px;
+	padding-left:45px;
+}
+.content_center_center img{
+	opacity:0.5;
+}
+.content_center_center a:hover img{
+	opacity:1;
+}
+.content_center_right{
+	width:330px;
+	float:right;
+	background-image:url(../images/biankuang1.png);
+	background-repeat:no-repeat;
+}
+.content_center_right{
+	line-height:22px;
+	list-style-type:disc;
+	padding-left:20px;
+}
+.content_center_right ul li{
+	line-height:22px;
+	list-style-type:disc;
+	padding-left:20px;
+}
+#content_bottom{
+	padding-top:15px;
+	clear:both;
+}
+.content_bottom_left{
+	width:260px;
+	float:left;
+	padding:20px;
+}
+.content_bottom_left img{
+	opacity:0.5;
+}
+.content_bottom_left a:hover img{
+	opacity:1;
+}
+.content_bottom_center{
+	width:330px;
+	float:left;
+	padding:20px;
+	background-image:url(../images/biankuang1.png);
+	background-repeat:no-repeat;
+}
+.content_bottom_center ul li{
+	line-height:22px;
+	list-style-type:disc;
+	padding-left:20px;
+}
+.content_bottom_right{
+	width:330px;
+	float:right;
+	padding-top:20px;
+	background-image:url(../images/biankuang1.png);
+	background-repeat:no-repeat;
+}
+.content_bottom_right ul li{
+	line-height:22px;
+	list-style-type:disc;
+	padding-left:20px;
+}

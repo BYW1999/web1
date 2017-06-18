@@ -1,0 +1,104 @@
+*{
+	margin:0px auto;
+	padding:0px;
+	font-family:'宋体';
+	color:#533a06;
+	list-style-type:none;
+	list-style-position:inside;
+}
+body{
+	font-size:14px;
+	background-image:url(../images/bg.jpg);
+}
+a{
+	text-decoration:none;
+	color:#522a06;
+}
+a:hover{
+	text-decoration:underline;
+}
+/*页面部分*/
+#header{
+	height:195px;
+	background-image:url(../images/banner.jpg);
+	background-repeat:no-repeat;
+	background-position:center top;
+}
+#banner{
+	width:1000px;
+	height:154px;
+	margin:auto;
+	padding-top:38px;
+	padding-left:25px;
+}
+#nav{
+	height:40px;
+	background-image:url(../images/daohang.jpeg);
+}
+.nav_body{
+	width:1000px;
+	margin:auto;
+}
+.nav_content{
+	width:800px;
+	font-weight:bolder;
+	color:#fff;
+	float:left;
+}
+.nav_content ul li{
+	float:left;
+	padding:10px 20px;
+}
+.nav_content ul li a{
+	color:white;
+}
+.nav_content ul li a:hover{
+	color:#daa520;
+	text-decoration:none;
+}
+.nav_search{
+	float:left;
+	padding-top:10px;
+}
+.nav_search .input{
+	width:140px;
+	height:19px;
+	background-color:#f8f5ee;
+}
+.nav_search .button{
+	width:44px;
+	height:21px;
+	backgroung-color:#fffacd;
+	color:#daa520;
+	font-weight:bolder;
+}
+/*页面底部*/
+#footer{
+	height:135px;
+	clear:both;
+	background-image:url(../images/foot6.jpg);
+	background-repeat:no-repeat;
+	opacity:0.5;
+}
+.footer_top{
+	foot-weight:bolder;
+	text-align:center;
+	line-height:30px;
+	padding-top:15px;
+}
+.footer_top ul li{
+	display:inline;
+	padding-left:15px;
+}
+.footer_picter{
+	text-align:center;
+	padding:10px;
+}
+.footer_center{
+	text-align:center;
+	padding-top:10px;
+}
+.footer_bottom{
+	text-align:center;
+	padding-top:10px;
+}
